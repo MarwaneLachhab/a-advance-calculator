@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+# Production output
+dist/
+build/
+# Local environment
+.env
+.env.*
+!.env.example
+# Tests and coverage
+coverage/
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Local-only generated/draft files
+linkedin-post.txt
+linkedin-post-final.txt
+codex-daily-prompt.txt
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+playwright-report/
+__pycache__/
+.venv/
