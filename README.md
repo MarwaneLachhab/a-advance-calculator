@@ -17,10 +17,15 @@ A advance calculator is a polished React + Vite calculator app built as a compac
 
 🖼️ **Screenshots**
 
-Screenshot placeholders live in [docs/SCREENSHOTS.md](docs/SCREENSHOTS.md). When screenshots are captured, save them under:
+These screenshots are captured from the built app after automated visual QA.
 
-- `docs/screenshots/desktop.png`
-- `docs/screenshots/mobile.png`
+### Desktop
+
+![Desktop screenshot](docs/screenshots/desktop.png)
+
+### Mobile
+
+![Mobile screenshot](docs/screenshots/mobile.png)
 
 🛠️ **Tech Stack**
 
